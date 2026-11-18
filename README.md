@@ -1,5 +1,5 @@
 # Airbnb Market Intelligence: Listing Insights Dashboard (Track A: Data Analytics)
-AnalystLab Africa Experience Lab, Week 1 | Author: Adejumoke Awolu | [GitHub link] 
+AnalystLab Africa Experience Lab, Week 1 | Author: Adejumoke Awolu |(https://github.com/jummypet/airbnb-market-intelligence)
 
 ## Purpose
 A four-page Power BI dashboard that lets stakeholders explore Airbnb listing distribution, advertised pricing,
@@ -59,3 +59,5 @@ coverage.
 ## Contribution and integration
 This dashboard was built by the author. It does not use outputs from other tracks. Definitions of listing count,
 advertised price, room type, property type, host indicators, review count and ratings follow the assignment brief.
+if (Test-Path docs\README.md) { Move-Item docs\README.md README.md }
+Add-Content README.md "`n## Licence`nCode and documentation are released under the MIT Licence (see LICENSE). The Airbnb dataset is not covered by this licence and is not included."
